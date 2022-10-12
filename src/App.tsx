@@ -1,4 +1,7 @@
 import { useState } from "react";
+
+import { Text } from "./components/Text";
+
 import "./styles/global.css";
 
 function App() {
@@ -6,7 +9,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1 className="font-bold text-2xl text-violet-500">Coe</h1>
+      <Text>Hello</Text>
     </div>
   );
 }
