@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div className="App">
-      <Text>Hello</Text>
+      <Text asChild={false}>Hello</Text>
     </div>
   );
 }
