@@ -1,5 +1,9 @@
 <h1 align="center">Ignite Lab 03 - Design System 🎨</h1>
 
+<div align="center">
+<img  src="./public/Lab-ds-image.png" align="center"/>
+</div>
+
 ### 💻 Descrição 
 <p align="justify">Projeto desenvolvido durante a terceira edição do Ignite Lab com foco em Design System.</p>
 
